@@ -1,0 +1,29 @@
+body{
+    background-image: url('images/pp3.jpg');
+    background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  
+  }
+
+  
+  /* .searchTable{
+  border: 4px inset crimson;
+  
+  
+  } */
+  
+  .searchTable th{
+  font-size: 20px;  
+  border: 2px inset rgb(209, 19, 136);
+  background-color: crimson;
+    
+    }
+  
+    .searchTable td{
+      font-weight: bold;
+      padding: 3px 10px;
+        
+        }
+  
+  

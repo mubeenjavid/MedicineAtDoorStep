@@ -1,0 +1,41 @@
+body{
+    background-image: url('images/ed.jpg');
+    background-position: center center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  
+  }
+  .btn{
+    width: 100px;
+    color: #C71585;
+    background-color: #FFB6C1;
+    margin: 10px 0;
+    font-size: 20px;
+    border-radius: 5px;
+    border: 1px solid green;
+}
+.btn:hover{
+    background-color: green;
+    color: #FFB6C1;
+    font-weight: bold;
+}
+  .searchTable{
+  border: 4px inset crimson;
+  
+  
+  }
+  
+  .searchTable th{
+  font-size: 20px;  
+  border: 2px inset rgb(209, 19, 136);
+  background-color: crimson;
+    
+    }
+  
+    .searchTable td{
+      font-weight: bold;
+      padding: 3px 10px;
+        
+        }
+  
+  
